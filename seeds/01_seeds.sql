@@ -10,7 +10,7 @@ VALUES ('Samson','metus@liberoat.edu','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDR
 ('Hammett','eget@mus.edu','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('Brenden','sit.amet@ornare.net','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
 
-INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, postal_code, active)
+INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code, active)
 VALUES (3,'GA','desc','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','538',3,5,3,'Sierra Leone','Ap #871-9935 Sed Rd.','Savannah','North Island','0576', true),
 (2,'BE','desc','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','850',3,4,4,'Turkey','Ap #791-2989 Nec Avenue','Berlin','RM','71297-57506', true),
 (4,'L','desc','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','https://www.shutterstock.com/image-photo/beautiful-exterior-newly-built-luxury-home-529108441','474',3,1,3,'Gabon','P.O. Box 713, 8164 Ut, St.','Dublin','Waals-Brabant','PZ6 7GB', true),
